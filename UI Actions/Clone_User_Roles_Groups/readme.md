@@ -14,6 +14,7 @@ A. Script Include: To create a Client Callable Script Include,
 5. In the Script field, use the following code and Save.
 [Script Include](https://github.com/anveshmupparaju/servicenow/blob/79d183678054ed8415a527482fe2e25612894093/UI%20Actions/Clone_User_Roles_Groups/CloneUserProfileUtils.js)
 
+![Script Include](https://github.com/anveshmupparaju/servicenow/blob/88108b4b618c56b7c485c96d21d82c20b4518a41/UI%20Actions/Clone_User_Roles_Groups/1.%20Script%20Include.png)
 
 B. UI Page: To create an UI Page, follow these steps
 
