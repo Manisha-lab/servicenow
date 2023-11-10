@@ -27,6 +27,8 @@ B. UI Page: To create an UI Page, follow these steps
 
 [HTML](https://github.com/anveshmupparaju/servicenow/blob/79d183678054ed8415a527482fe2e25612894093/UI%20Actions/Clone_User_Roles_Groups/clone_user_roles_groups.html)
 
+![UI Page](https://github.com/anveshmupparaju/servicenow/blob/ace497c835b5b30b431d5d85f6a65d8534f9fd64/UI%20Actions/Clone_User_Roles_Groups/2.%20UI%20Page.png)
+
 C. UI Action: To create a UI action, follow these steps:
 1. Navigate to System Definition > UI Actions.
 2. Click New.
@@ -37,3 +39,13 @@ C. UI Action: To create a UI action, follow these steps:
 7. In the onClick field, enter: cloneUser()
 8. In the Script field, enter the following code and Save.
 [Script](https://github.com/anveshmupparaju/servicenow/blob/79d183678054ed8415a527482fe2e25612894093/UI%20Actions/Clone_User_Roles_Groups/Clone_Roles_Groups.js)
+
+![UI Action Part 1](https://github.com/anveshmupparaju/servicenow/blob/ace497c835b5b30b431d5d85f6a65d8534f9fd64/UI%20Actions/Clone_User_Roles_Groups/3.%20UI%20Action%20-%20A.png)
+![UI Action Part 2](https://github.com/anveshmupparaju/servicenow/blob/ace497c835b5b30b431d5d85f6a65d8534f9fd64/UI%20Actions/Clone_User_Roles_Groups/3.%20UI%20Action%20-%20A.png)
+
+
+Result:
+
+![Form](https://github.com/anveshmupparaju/servicenow/blob/ace497c835b5b30b431d5d85f6a65d8534f9fd64/UI%20Actions/Clone_User_Roles_Groups/4.%20User%20Form.png)
+
+![UI Action Pop-Up](https://github.com/anveshmupparaju/servicenow/blob/ace497c835b5b30b431d5d85f6a65d8534f9fd64/UI%20Actions/Clone_User_Roles_Groups/5.%20Dialog.png)
