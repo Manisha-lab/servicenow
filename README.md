@@ -37,6 +37,10 @@ Blog posts and articles: Please make sure that your blog posts and articles are 
 
 4. [UI Action for Cloning User Roles and Groups](https://github.com/anveshmupparaju/servicenow/tree/79d183678054ed8415a527482fe2e25612894093/UI%20Actions/Clone_User_Roles_Groups)
 
+5. [Set Priority of Incident if Caller is VIP](https://github.com/anveshmupparaju/servicenow/tree/d5032a3eac3902f7f52de8fbd2f70a39de5dae10/Client%20Scripts/Set_Priority_VIP_Caller)
+
+6. [Timeout form messages added by client scripts](https://github.com/anveshmupparaju/servicenow/tree/d5032a3eac3902f7f52de8fbd2f70a39de5dae10/Client%20Scripts/Timeout_Messages)
+
 ### License
 
 This repository is licensed under the MIT License.
