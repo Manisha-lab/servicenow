@@ -46,6 +46,8 @@ Blog posts and articles: Please make sure that your blog posts and articles are 
 
 1. [UI Action for Cloning User Roles and Groups](https://github.com/anveshmupparaju/servicenow/tree/79d183678054ed8415a527482fe2e25612894093/UI%20Actions/Clone_User_Roles_Groups)
 
+### Inbound Action Scripts
+1. [Create Incidents from Excel Attachment in Inbound email](https://github.com/anveshmupparaju/servicenow/tree/7e9c72360febbf2df3bd502fca64156d53f20adc/Inbound_Actions/Incident_from_Excel_Email_Attachment)
 
 
 ### License
